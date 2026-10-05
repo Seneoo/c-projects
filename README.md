@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>💻 GIUSEPPE CALDAROLA // C EXERCISES 💻</h1>
-  <p><em>School Programming Collection // Data Structures & Binary Files in C</em></p>
+  <p><em>School Programming Collection // Algorithms & Data Structures in C</em></p>
 
   <hr style="border: 2px solid #0056b3; width: 50%;">
 
@@ -20,8 +20,8 @@
 
 <div style="background: #0d1b2a; color: #fff; padding: 30px; border-left: 8px solid #00b4d8; font-family: monospace; box-shadow: 8px 8px 0px #0056b3;">
   <h2 style="color: #90e0ef; text-transform: uppercase; margin-top: 0;">🌐 ABOUT THIS REPOSITORY / INFORMAZIONI SUL PROGETTO</h2>
-  <p><b>[EN]:</b> Welcome to my personal collection of C programming exercises developed for school. This repository features structured programs focusing on file management, binary streams, structs, and interactive menu-driven logic.</p>
-  <p><b>[IT]:</b> Benvenuto nella mia raccolta personale di esercizi di programmazione in C sviluppati in ambito scolastico. Questa repository raccoglie programmi strutturati incentrati sulla gestione di file, flussi binari, struct e logiche con menu interattivi.</p>
+  <p><b>[EN]:</b> Welcome to my personal collection of C programming exercises developed for school. This repository serves as a growing archive of structured programs, algorithms, and modular solutions covering fundamental and advanced concepts in C.</p>
+  <p><b>[IT]:</b> Benvenuto nella mia raccolta personale di esercizi di programmazione in C sviluppati in ambito scolastico. Questa repository raccoglie programmi strutturati, algoritmi e soluzioni modulari che spaziano dai concetti fondamentali a quelli avanzati in C.</p>
 </div>
 
 <br>
@@ -30,8 +30,8 @@
   <h3 style="text-transform: uppercase; margin-top: 0; color: #0056b3;">⚡ CORE HIGHLIGHTS / CARATTERISTICHE PRINCIPALI</h3>
   <ul>
     <li><b>Author / Autore:</b> Giuseppe Caldarola.</li>
-    <li><b>Data Management:</b> Implementation of custom structs, dynamic data entry, and binary file handling (<code>fopen</code>, <code>fwrite</code>, <code>fread</code>, <code>fseek</code>).</li>
-    <li><b>Interactive Menus:</b> Robust user interfaces using loops (<code>do-while</code>) and selection control structures (<code>switch-case</code>).</li>
+    <li><b>Core Topics:</b> Implementation of control structures, arrays, custom structs, pointers, and file management.</li>
+    <li><b>Interactive Logic:</b> Robust menu-driven console applications built with loops and selection statements.</li>
     <li><b>Code Structure:</b> Clean, logical layout maintaining standard programming practices and efficient data manipulation.</li>
   </ul>
 </div>
